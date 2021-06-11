@@ -2,7 +2,7 @@
 using HarmonyLib;
 using UnityEngine;
 
-namespace W_jump
+namespace Player_swap
 {
     [BepInDependency("com.willis.rounds.unbound", BepInDependency.DependencyFlags.HardDependency)]
     [BepInProcess("Rounds.exe")]
